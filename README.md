@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,8 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3467-transform-array-by-parity) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+## String
+|  |
+| ------- |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
