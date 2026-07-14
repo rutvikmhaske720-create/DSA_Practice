@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3745-maximize-expression-of-three-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3745-maximize-expression-of-three-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Hash Table
 |  |
 | ------- |
