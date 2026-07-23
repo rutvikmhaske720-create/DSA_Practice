@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [3024-type-of-triangle](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
